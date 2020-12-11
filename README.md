@@ -12,6 +12,8 @@ Leaderboard:
 https://adventofcode.com/2019/leaderboard/private
 the code is 605611-fba15382 and it applies to all years
 
+GitHub Guide:
+https://guides.github.com/activities/hello-world/
 
 I think for discussions of solutions with spoilers it makes sense to use GitHub issues in order to keep this channel clear. I've created an issue on my repository to discuss the day 1 challenge when it comes out: https://github.com/ianepreston/advent_2020/issues/1 if this seems to work well I'll create more for the rest of the days.
 
